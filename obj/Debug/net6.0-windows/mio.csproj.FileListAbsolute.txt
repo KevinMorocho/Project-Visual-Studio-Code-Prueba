@@ -1,0 +1,30 @@
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\mio.exe
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\mio.deps.json
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\mio.runtimeconfig.json
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\mio.dll
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\ref\mio.dll
+C:\Users\SEDICOM\Desktop\mio\bin\Debug\net6.0-windows\mio.pdb
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.csproj.AssemblyReference.cache
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.AssemblyInfoInputs.cache
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.AssemblyInfo.cs
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.csproj.CoreCompileInputs.cache
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.dll
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\ref\mio.dll
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.pdb
+C:\Users\SEDICOM\Desktop\mio\obj\Debug\net6.0-windows\mio.genruntimeconfig.cache
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\mio.exe
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\mio.deps.json
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\mio.runtimeconfig.json
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\mio.dll
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\ref\mio.dll
+D:\Kevin Respaldos\Downloads\mio\bin\Debug\net6.0-windows\mio.pdb
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.csproj.AssemblyReference.cache
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.AssemblyInfoInputs.cache
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.AssemblyInfo.cs
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.csproj.CoreCompileInputs.cache
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.dll
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\ref\mio.dll
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.pdb
+D:\Kevin Respaldos\Downloads\mio\obj\Debug\net6.0-windows\mio.genruntimeconfig.cache
